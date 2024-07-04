@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 # 2 cmd to run code
 - npm run dev
-- npm run serve (for api product)
+- npm run server (for api product)
   
 ## Project Setup
 
