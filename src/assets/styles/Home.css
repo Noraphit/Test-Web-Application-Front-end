@@ -1,0 +1,30 @@
+@import "bootstrap";
+
+.container {
+  padding: 20px 0px;
+}
+
+.Header {
+  font-weight: bold;
+}
+
+.btnAdd {
+  display: flex;
+  justify-content: end;
+}
+
+.topic {
+  font-size: 15px;
+}
+
+.addIcon {
+  color: aqua;
+}
+
+.deleteIcon {
+  color: red;
+}
+
+.editIcon {
+  color: orange;
+}

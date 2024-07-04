@@ -1,0 +1,18 @@
+@import "bootstrap";
+
+.container {
+  padding: 20px 0px;
+}
+
+.footerBtn {
+  display: flex;
+  flex-direction: row;
+}
+
+.cancelBtn {
+  padding: 0 20px;
+}
+
+.Header {
+  font-weight: bold;
+}

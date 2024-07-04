@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Napoleon Bonaparte",
+      "phone": "0597963215",
+      "email": "Napoleon.Bonaparte@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "John Smith",
+      "phone": "0881214302",
+      "email": "John.Smith@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Ezio Antonio",
+      "phone": "0845762356",
+      "email": "Ezio.Antonio@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Corner White",
+      "phone": "0935521743",
+      "email": "Corner.White@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Arno Dorian",
+      "phone": "0683325989",
+      "email": "Arno.Dorian@gmail.com"
+    }
+  ]
+}
