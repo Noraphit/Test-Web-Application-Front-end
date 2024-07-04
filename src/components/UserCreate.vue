@@ -65,7 +65,7 @@
 
           <div class="footerBtn">
             <div>
-              <v-btn variant="tonal" class="bg-green rounded-lg" @click="saveUser">Save</v-btn>
+              <v-btn variant="tonal" class="bg-green rounded-lg" @click="saveUser">Create</v-btn>
             </div>
             <div class="cancelBtn">
               <RouterLink to="/"
